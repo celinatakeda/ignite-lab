@@ -1,6 +1,6 @@
 # Criando uma plataforma de conteúdos em vídeo 
 
-Nesse projeto utilizamos as ferramentas TypeScript, ReactJS, GraphQL, Apollo.
+Nesse projeto utilizamos as ferramentas como TypeScript, ReactJS, GraphQL, Apollo.
 
 ## Bibliotecas Utilizadas
 Tailwindcss
