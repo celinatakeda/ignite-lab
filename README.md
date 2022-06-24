@@ -2,21 +2,24 @@
 
 Nesse projeto utilizamos as ferramentas TypeScript, ReactJS, GraphQL, Apollo.
 
-## Bibliotecas Úteis
-### Estilização
+## Bibliotecas Utilizadas
 Tailwindcss
 
 postcss
 
 autoprefixer
 
-### Ícones
+phosphor-react
+
+@vime/core @vime/react 
+
+react-router-dom
+
+## Sites Úteis
 https://phosphoricons.com/
 
-### Vídeo
 https://vimejs.com/
 
-### Controle de rota
-react-router-dom
+
 
 
