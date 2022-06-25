@@ -1,8 +1,6 @@
 # Criando uma plataforma de conteúdos em vídeo 
 
-Nesse projeto as ferramentas utilizadas foram TypeScript, ReactJS, GraphQL, Apollo, Graphql Code Generator.
-
-![igniteLab](https://user-images.githubusercontent.com/82118386/175778095-ff0b024f-8ee5-40e6-88fa-df6dd7e10393.png)
+Nesse projeto as ferramentas utilizadas foram TypeScript, ReactJS, Apollo, GraphQL, Graphql Code Generator.
 
 ## Bibliotecas Utilizadas
 Tailwindcss
