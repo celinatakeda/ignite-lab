@@ -11,6 +11,8 @@ postcss
 
 autoprefixer
 
+@apollo/client
+
 phosphor-react
 
 date-fns
