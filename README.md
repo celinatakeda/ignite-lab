@@ -1,6 +1,6 @@
 # Criando uma plataforma de conteúdos em vídeo 
 
-Nesse projeto as ferramentas utilizadas foram TypeScript, ReactJS, Apollo, GraphQL, Graphql Code Generator.
+Nesse projeto as ferramentas utilizadas foram Vite, TypeScript, ReactJS, Apollo, GraphQL, Graphql Code Generator, Vercel.
 
 ![igniteLab](https://user-images.githubusercontent.com/82118386/175779364-bb9e6dbe-dc85-4f8e-ba3e-a319bcd811f7.png)
 
