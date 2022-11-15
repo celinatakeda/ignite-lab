@@ -3,7 +3,7 @@
 Nesse projeto as ferramentas utilizadas foram Vite, TypeScript, ReactJS, Apollo, GraphQL, Graphql Code Generator, Vercel.
 
 <p>
-  <img src=".github/igniteLab.png" />
+  <img src="../.github/igniteLab.png" />
 </p>
 
 ## Bibliotecas Utilizadas
