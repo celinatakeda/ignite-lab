@@ -19,21 +19,18 @@ npm i prisma -D
 ## Instalando prisma cli
 npm i @prisma/client
 
-
 ## Rodar o prisma
+```
 npx prisma init --datasource-provider SQLite
-
+```
 npx prisma migrate dev
 
 name: create rocket members tab
-
-
-
-
 
 Instalando class validator
 npm i class-validator
 
 npm i class-transformer
 
+## Links 
 https://nestjs.com/
