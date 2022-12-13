@@ -1,28 +1,33 @@
-Trabalhando com NestJS para criar um sistema de microserviços
+# NodeJS
+Trabalhando com NestJS para criar um sistema de microserviços de notificações.
 
 NestJs é um framework opinado
 
 ## Instalar o cli do nest
-
+```
 npm i -g @nestjs/cli
 
 $ nest new notifications-service
+```
 
-## Rodando 
+## Rodar
 npm run start:dev
 
-Instalando prisma
-npm install prisma -D
+## Instalando prisma
+npm i prisma -D
 
-Rodar o prisma
+## Instalando prisma cli
+npm i @prisma/client
+
+
+## Rodar o prisma
 npx prisma init --datasource-provider SQLite
 
 npx prisma migrate dev
 
 name: create rocket members tab
 
-Instalando prisma cli
-npm i @prisma/client
+
 
 
 
