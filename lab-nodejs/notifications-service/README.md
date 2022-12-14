@@ -21,11 +21,20 @@ npm i @prisma/client
 
 ## Rodar o prisma
 ```
-npx prisma init --datasource-provider SQLite
+  npx prisma init --datasource-provider SQLite
 ```
-npx prisma migrate dev
+## Criando o banco de dados
+```
+  npx prisma migrate dev
 
-name: create rocket members tab
+  name: create notifications
+```
+
+## Visualizar o banco de dados
+```
+$ npx prisma studio
+```
+## Integrando o prisma dentro do nestjs
 
 Instalando class validator
 npm i class-validator
