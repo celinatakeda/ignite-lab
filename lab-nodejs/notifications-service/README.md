@@ -36,10 +36,9 @@ $ npx prisma studio
 ```
 ## Integrando o prisma dentro do nestjs
 
-Instalando class validator
-npm i class-validator
-
-npm i class-transformer
-
+## Instalando class validator e transformer
+```
+  npm i class-validator class-transformer
+```
 ## Links 
 https://nestjs.com/
