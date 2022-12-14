@@ -40,5 +40,11 @@ $ npx prisma studio
 ```
   npm i class-validator class-transformer
 ```
+
+## Rodar o teste
+```
+  npm run test
+```
+
 ## Links 
 https://nestjs.com/
