@@ -28,6 +28,8 @@ npm i @prisma/client
   npx prisma migrate dev
 
   name: create notifications
+
+  name: add canceled at on notifications
 ```
 
 ## Visualizar o banco de dados
@@ -44,6 +46,11 @@ $ npx prisma studio
 ## Rodar o teste
 ```
   npm run test
+```
+
+## Verificar se ficou algum erro
+```
+  npx tsc --noEmit
 ```
 
 ## Links 
