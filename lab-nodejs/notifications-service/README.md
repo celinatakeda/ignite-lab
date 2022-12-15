@@ -1,7 +1,7 @@
 # NodeJS
 Trabalhando com NestJS para criar um sistema de microserviços de notificações.
 
-NestJs é um framework opinado
+NestJs é um framework opinado.
 
 ## Instalar o cli do nest
 ```
