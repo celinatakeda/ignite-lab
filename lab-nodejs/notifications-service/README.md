@@ -46,6 +46,8 @@ $ npx prisma studio
 ## Rodar o teste
 ```
   npm run test
+
+  npm run test:watch
 ```
 
 ## Verificar se ficou algum erro
