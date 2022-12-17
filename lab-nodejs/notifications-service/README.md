@@ -5,19 +5,25 @@ NestJs é um framework opinado.
 
 ## Instalar o cli do nest
 ```
-npm i -g @nestjs/cli
+  npm i -g @nestjs/cli
 
 $ nest new notifications-service
 ```
 
 ## Rodar
-npm run start:dev
+```
+  npm run start:dev
+```
 
 ## Instalando prisma
-npm i prisma -D
+```
+  npm i prisma -D
+```
 
 ## Instalando prisma cli
-npm i @prisma/client
+```
+  npm i @prisma/client
+```
 
 ## Rodar o prisma
 ```
@@ -34,7 +40,7 @@ npm i @prisma/client
 
 ## Visualizar o banco de dados
 ```
-$ npx prisma studio
+  npx prisma studio
 ```
 ## Integrando o prisma dentro do nestjs
 
