@@ -61,5 +61,17 @@ $ nest new notifications-service
   npx tsc --noEmit
 ```
 
+# Kafka
+Aula extra 
+
+## Instalando microserviços
+npm i @nestjs/microservices
+
+## Instalando kafka
+npm i kafkajs
+
+
 ## Links 
 https://nestjs.com/
+
+https://upstash.com/
