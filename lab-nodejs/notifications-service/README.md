@@ -6,7 +6,10 @@ NestJs é um framework opinado.
 ## Instalar o cli do nest
 ```
   npm i -g @nestjs/cli
+```
 
+## Criando notifications service
+```
   nest new notifications-service
 ```
 
@@ -44,6 +47,7 @@ NestJs é um framework opinado.
 ```
 ## Integrando o prisma dentro do nestjs
 
+
 ## Instalando class validator e transformer
 ```
   npm i class-validator class-transformer
@@ -62,7 +66,7 @@ NestJs é um framework opinado.
 ```
 
 # Kafka
-Aula extra 
+Comunicação assíncrona utilizando Apache Kafka.
 
 ## Instalando microserviços
 ```
