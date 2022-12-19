@@ -7,7 +7,7 @@ NestJs é um framework opinado.
 ```
   npm i -g @nestjs/cli
 
-$ nest new notifications-service
+  nest new notifications-service
 ```
 
 ## Rodar
