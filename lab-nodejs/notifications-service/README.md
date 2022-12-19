@@ -65,11 +65,14 @@ $ nest new notifications-service
 Aula extra 
 
 ## Instalando microserviços
-npm i @nestjs/microservices
+```
+  npm i @nestjs/microservices
+```
 
 ## Instalando kafka
-npm i kafkajs
-
+```
+  npm i kafkajs
+```
 
 ## Links 
 https://nestjs.com/
