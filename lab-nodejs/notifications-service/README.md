@@ -66,7 +66,7 @@ NestJs é um framework opinado.
 ```
 
 # Kafka
-Comunicação assíncrona utilizando Apache Kafka.
+Criando uma comunicação assíncrona utilizando Apache Kafka.
 
 ## Instalando microserviços
 ```
