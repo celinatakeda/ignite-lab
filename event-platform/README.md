@@ -2,7 +2,7 @@
 
 Nesse projeto as ferramentas utilizadas foram Vite, TypeScript, ReactJS, Apollo, GraphQL, Graphql Code Generator, Vercel.
 
-<p>
+<p align=center>
   <img src=".github/igniteLab.png" />
 </p>
 
@@ -31,6 +31,4 @@ https://phosphoricons.com/
 https://vimejs.com/
 
 https://www.graphql-code-generator.com/
-
-
 
